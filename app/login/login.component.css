@@ -1,0 +1,17 @@
+
+#tool, h3{
+    background-color: rgb(78, 0, 88);
+    color: white;
+    font-weight: 900;
+}
+
+#btn{
+    background-color: rgb(78, 0, 88);
+    color: white;
+    font-weight: 600;
+}
+
+#container{
+    padding: 13px 0px;
+}
+
